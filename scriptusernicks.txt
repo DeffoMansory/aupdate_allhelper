@@ -6,3 +6,6 @@ Serega_BlackStar
 Habib_BlackStar
 Daniel_West
 Chesterfield_Mansory
+Oleg_Player
+Set_Creator
+Alexandr_Mansory
