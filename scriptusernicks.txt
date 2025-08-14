@@ -10,3 +10,4 @@ Oleg_Player
 Set_Creator
 Alexandr_Mansory
 Rias_Mansory
+Logi_Tech
