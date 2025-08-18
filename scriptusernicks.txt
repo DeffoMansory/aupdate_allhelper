@@ -2,12 +2,8 @@ Soul_Player
 Santiago_Avery
 Orlando_BlackStar
 Burger_Endless
-Serega_BlackStar
-Habib_BlackStar
 Daniel_West
 Chesterfield_Mansory
-Oleg_Player
 Set_Creator
 Alexandr_Mansory
-Rias_Mansory
-Logi_Tech
+Rias_BlackStar
